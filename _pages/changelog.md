@@ -6,4 +6,10 @@ include_in_header: true
 
 ### `Initial Release`
 # **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
+• Add subscriptions from a pre-added list of 150+ subscription services.
+• Calculate your subscription bills on multiple currencies.
+• Create custom subscriptions and tailor them to your needs.
+• Exchange your bills instantly to your local currency using the latest currency rates.
+• Set reminders and never miss your next due date or trial.
+• Keep track of your upcoming subscriptions with a clean UI.
+• Dark Mode support
