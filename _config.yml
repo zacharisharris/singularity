@@ -37,15 +37,15 @@ features                                  :
 
   - title                                 : Curated Presets
     description                           : Choose from a list of over 150+ existing subscription services.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : stream
     
   - title                                 : Personalized
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+    description                           : Create custom subscriptions tailored to your needs.
+    fontawesome_icon_name                 : user
 
   - title                                 : Dark Mode
     description                           : Embrace the dark mode that is supported throughout the app.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : lightbulb
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
