@@ -29,5 +29,5 @@ include_in_header: true
 <h2>Contact Us</h2>
 <p>If you have any questions about this Privacy Policy, please contact us:</p>
 <ul>
-  <li>Mail: <a href="mailto:zacharisharris@gmail.com?Subject=Question%20regarding%privacy%20policy" target="_top">@zacharisharris@gmail.com</a></li>
+  <li>Mail: <a href="mailto:zacharisharris@gmail.com?Subject=Question%20regarding%privacy%20policy" target="_top">zacharisharris@gmail.com</a></li>
 </ul>
