@@ -6,9 +6,10 @@ include_in_header: true
 
 
 ### `Current Release`
-# **Version 1.02**
+# **Version 1.02.1**
 • Added new options to view your total expenses. 
 These options include Average cost per day/month/year as well as bills due this month/year.
+• Added a "Trial" badge for notifications on Main Screen shown while a trial period is active.
 
 
 # **Version 1.01**
